@@ -4,6 +4,7 @@ int main()
 {
 	float  n1,n2,n3;
 	float promedio;
+	cout<<"Bienvenido al programa"<<endl;
 	cout<<"ingrese la nota 1: "<<endl;
 	cin>>n1;
 	cout<<"ingrese la nota 2: "<<endl;
